@@ -1,4 +1,4 @@
-# Picklin' Pals: Pickleball Round Robin Tournament Manager
+# {WIP} Picklin' Pals: Pickleball Round Robin Tournament Manager
 
 Organize and manage your pickleball round robin tournaments with ease! Whether you're running a casual game night or a club tournament, this app streamlines the entire process from start to finish.
 
